@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ASE-Snow
+  m_Shader: {fileID: 4800000, guid: 4e77f19b0a7fa01449ba4e259dea5d1c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlobalEffectRT:
+        m_Texture: {fileID: 8400000, guid: 8aeb68f0fe8a04643be52e1d419290b7, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 94cf097562b5e6f44a7d9cf36d8ad2c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexBase:
+        m_Texture: {fileID: 2800000, guid: cd184940c7267e84db35780d1360a678, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 82c0bc1978900be4799f330810110dc0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: dd528d6087ca52441a5361fc33cfe3cb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowNoise:
+        m_Texture: {fileID: 2800000, guid: dd528d6087ca52441a5361fc33cfe3cb, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _SparkleNoise:
+        m_Texture: {fileID: 2800000, guid: 8a3eba73dd10f8048b9c3cd485759f8d, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 8400000, guid: 8aeb68f0fe8a04643be52e1d419290b7, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EdgeWidth: 0.2
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _LightScaleValue: 2
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseScale: 0.01
+    - _NoiseWeight: 0.5
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RimPower: 0.5
+    - _Scale: 1
+    - _SmoothnessTextureChannel: 0
+    - _SnowDepth: 0.5
+    - _SnowHeight: 0.5
+    - _SnowSmoothness: 0.6
+    - _SnowTextureOpacity: 0.23
+    - _SnowTextureScale: 1
+    - _SparkleCutoff: 0.85
+    - _SparkleScale: 7
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TessMax: 25
+    - _TessMin: 5
+    - _TessPhongStrength: 0.5
+    - _TessValue: 18.9
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 0.6509434, g: 0.6509434, b: 0.6509434, a: 1}
+    - _Color: {r: 0.48, g: 0.48, b: 0.48, a: 1}
+    - _EdgeColor: {r: 0, g: 0.1296251, b: 0.4339623, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PathColor: {r: 0.34042364, g: 0.35239142, b: 0.8490566, a: 1}
+    - _RimColor: {r: 0.495283, g: 0.6282828, b: 1, a: 1}
+    - _ToonRamp: {r: 1, g: 0.9386792, b: 0.9386792, a: 1}
+    - _VTInfoBlock: {r: 0, g: 0, b: 0, a: 0}
