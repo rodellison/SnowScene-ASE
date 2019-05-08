@@ -104,21 +104,21 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _RimPower: 0.5
-    - _Scale: 1
+    - _Scale: 0.92
     - _SmoothnessTextureChannel: 0
     - _SnowDepth: 0.5
     - _SnowHeight: 0.5
-    - _SnowSmoothness: 0.6
+    - _SnowSmoothness: 0.5
     - _SnowTextureOpacity: 0.23
     - _SnowTextureScale: 1
-    - _SparkleCutoff: 0.85
-    - _SparkleScale: 7
+    - _SparkleCutoff: 0.83
+    - _SparkleScale: 10
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _TessMax: 25
     - _TessMin: 5
     - _TessPhongStrength: 0.5
-    - _TessValue: 18.9
+    - _TessValue: 12.5
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 0
@@ -127,7 +127,7 @@ Material:
     - _Color: {r: 0.48, g: 0.48, b: 0.48, a: 1}
     - _EdgeColor: {r: 0, g: 0.1296251, b: 0.4339623, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _PathColor: {r: 0.34042364, g: 0.35239142, b: 0.8490566, a: 1}
-    - _RimColor: {r: 0.495283, g: 0.6282828, b: 1, a: 1}
+    - _PathColor: {r: 0.40939838, g: 0.41625896, b: 0.754717, a: 1}
+    - _RimColor: {r: 0.4198113, g: 0.47097018, b: 1, a: 1}
     - _ToonRamp: {r: 1, g: 0.9386792, b: 0.9386792, a: 1}
     - _VTInfoBlock: {r: 0, g: 0, b: 0, a: 0}
